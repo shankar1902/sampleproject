@@ -1,0 +1,22 @@
+#about
+{
+    background: url(..//image/img2.jpg);
+    background-size: cover;
+    height: 250px;
+    font-size: 20px;
+}
+#about1
+{
+    background-color: black;
+}
+
+#demo
+{
+    width: 1500px;
+    height: 500px;
+}
+#footer
+{
+    background:url(..//image/i1.jpg);
+    height:350px;
+}
